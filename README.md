@@ -37,3 +37,9 @@
 - Nrwl NX
 
 <br />
+
+[![meisterveda's github stats](https://github-readme-stats.vercel.app/api?username=meisterveda)](https://github.com/meisterveda/github-readme-stats)
+
+[website]: https://meisterveda.com
+[twitter]: https://twitter.com/meistervedasys
+[linkedin]: https://www.linkedin.com/in/gustavo-cabezal-ai
