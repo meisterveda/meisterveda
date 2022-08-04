@@ -1,4 +1,4 @@
-name: Portfolio Linter
+name: Portfolio Jest Test
 
 on:
   push:
@@ -18,7 +18,7 @@ permissions:
 
 jobs:
   Linter:
-    name: Run Portfolio Linter
+    name: Run Portfolio Jest Test
     runs-on: ubuntu-latest
 
     steps:
@@ -34,5 +34,5 @@ jobs:
       - name: Install Node.js dependencies
         run: npm ci
 
-      - name: Run ESLinter
-        run: ng lint --fix
+      - name: Run Jest
+        run: npm run jest-test

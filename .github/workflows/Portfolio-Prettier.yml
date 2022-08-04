@@ -1,4 +1,4 @@
-name: Portfolio Linter
+name: Portfolio Prettier
 
 on:
   push:
@@ -18,7 +18,7 @@ permissions:
 
 jobs:
   Linter:
-    name: Run Portfolio Linter
+    name: Run Portfolio Prettier
     runs-on: ubuntu-latest
 
     steps:
@@ -34,5 +34,5 @@ jobs:
       - name: Install Node.js dependencies
         run: npm ci
 
-      - name: Run ESLinter
-        run: ng lint --fix
+      - name: Run Prettier
+        run: npx prettier --write .
