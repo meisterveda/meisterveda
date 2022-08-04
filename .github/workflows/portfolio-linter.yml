@@ -31,7 +31,9 @@ jobs:
           node-version: "18"
 
       - name: Install Node.js dependencies
-        run: npm install
+        run: npm ci
+        working-directory: ./portfolio
 
       - name: Run ESLinter
         run: ng lint --fix
+        working-directory: ./portfolio
