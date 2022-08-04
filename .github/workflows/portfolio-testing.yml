@@ -1,0 +1,44 @@
+name: Portfolio Testing
+
+on:
+  push:
+    branches:
+      - "**"
+    paths:
+      - "portfolio/**"
+  pull_request:
+    branches:
+      - "main"
+    paths:
+      - "portfolio/**"
+
+permissions:
+  checks: write
+  contents: write
+
+jobs:
+  Linter:
+  name: Run Portfolio Linter
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: current
+
+      - name: Install Node.js dependencies
+        run: npm ci
+
+      - name: Run ESLinter
+        run: ng lint --fix
+
+      - name: Run Prettier
+        run: npx prettier --write .
+
+      - name: Run Jest
+        run: npm run jest-test
+
