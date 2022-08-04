@@ -1,0 +1,38 @@
+name: Portfolio Cypress Test
+
+on:
+  push:
+    branches:
+      - "**"
+    paths:
+      - "portfolio/**"
+  pull_request:
+    branches:
+      - "main"
+    paths:
+      - "portfolio/**"
+
+permissions:
+  checks: write
+  contents: write
+
+jobs:
+  Linter:
+    name: Run Portfolio Cypress Check
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: "18"
+
+      - name: Install Node.js dependencies
+        run: npm ci
+        working-directory: ./portfolio
+
+      - name: Cypress run
+        uses: cypress-io/github-action@v4
