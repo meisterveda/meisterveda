@@ -1,7 +1,0 @@
-{
-  // This line will help us have intellisense in our IDE
-  "$schema": "<https://on.cypress.io/cypress.schema.json>",
-  // URL used as prefix for URL commands.
-  // So let's set this as the default Angular project path
-  "baseUrl": "<http://localhost:4200>"
-}
