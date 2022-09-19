@@ -46,7 +46,7 @@
 ![Node](https://img.shields.io/badge/Node.js-%23E8E8E8.svg?style=flat-square&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-%23E8E8E8.svg?style=flat-square&logo=express&logoColor=000)
 ![NextJS](https://img.shields.io/badge/NextJS-%23E8E8E8.svg?style=flat-square&logo=Next.js&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20ACSS-%23E8E8E8.svg?style=flat-square&logo=TailwindCSS&logoColor=06B6D4)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%23E8E8E8.svg?style=flat-square&logo=TailwindCSS&logoColor=06B6D4)
 
 ### The basics
 
