@@ -1,11 +1,5 @@
 # Hello, I'm Gustavo - aka [Meisterveda][website]
 
-<br />
-
-[![trophy](https://github-profile-trophy-rho.vercel.app/?username=meisterveda)](https://github.com/meisterveda/github-profile-trophy)
-
-<br />
-
 ## WHOAMI
 
 - :mortar_board: I'm a Developer, Administrator, Creator and Teacher.
@@ -50,19 +44,15 @@
 
 ---
 
-### Latest Youtube Videos
+### My Stats
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<br />
+
+[![trophy](https://github-profile-trophy-rho.vercel.app/?username=meisterveda)](https://github.com/meisterveda/github-profile-trophy)
+
+<br />
 
 ---
-
-### Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Website Launched](https://meisterveda-3d1f5.web.app/blog/first-blog/)
-<!-- BLOG-POST-LIST:END -->
-
 
 ### Latest Github Activity
 
