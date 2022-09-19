@@ -66,12 +66,12 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23F0F0F0.svg?style=flat-square&logo=Jenkins&logoColor=D24939)
 ![NPM](https://img.shields.io/badge/NPM-%23E8E8E8.svg?style=flat-square&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23E8E8E8?style=flat-square&logo=jest&logoColor=C21325)
-![Cypress](https://img.shields.io/badge/Cypress-%23E8E8E8?style=flat-square&logo=jest&logoColor=17202C)
+![Cypress](https://img.shields.io/badge/Cypress-%23E8E8E8?style=flat-square&logo=Cypress&logoColor=17202C)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23E8E8E8.svg?style=flat-square&logo=visual-studio-code&logoColor=0078d7)
 ![AWS](https://img.shields.io/badge/AWS-%23F0F0F0.svg?style=flat-square&logo=AmazonAWS&logoColor=232F3E)
 ![GCP](https://img.shields.io/badge/GCP-%23E8E8E8.svg?style=flat-square&logo=GoogleCloud&logoColor=4285F4)
-![Terraform](https://img.shields.io/badge/SQL-%23E8E8E8.svg?style=flat-square&logo=Terraform&logoColor=7B42BC)
-![Ansible](https://img.shields.io/badge/MongoDB-%23F0F0F0.svg?style=flat-square&logo=Ansible&logoColor=EE0000)
+![Terraform](https://img.shields.io/badge/Terraform-%23E8E8E8.svg?style=flat-square&logo=Terraform&logoColor=7B42BC)
+![Ansible](https://img.shields.io/badge/Ansible-%23F0F0F0.svg?style=flat-square&logo=Ansible&logoColor=EE0000)
 
 ## <br />
 
