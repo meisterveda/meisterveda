@@ -48,7 +48,7 @@
 
 <br />
 
-[![trophy](https://github-profile-trophy-rho.vercel.app/?username=meisterveda)](https://github.com/meisterveda/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=meisterveda)](https://github.com/meisterveda/github-profile-trophy)
 
 <br />
 
