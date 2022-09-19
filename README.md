@@ -57,6 +57,8 @@
 ### Latest Github Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Vedacomputing/ui-tailwind/pull/1) in [Vedacomputing/ui-tailwind](https://github.com/Vedacomputing/ui-tailwind)
+2. 💪 Opened PR [#1](https://github.com/Vedacomputing/ui-tailwind/pull/1) in [Vedacomputing/ui-tailwind](https://github.com/Vedacomputing/ui-tailwind)
 <!--END_SECTION:activity-->
 
 ---
