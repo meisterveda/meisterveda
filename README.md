@@ -63,7 +63,7 @@
 
 ---
 
-<img align="left" alt="meisterveda's Github Stats" src="https://github-readme-stats.meisterveda.vercel.app/api?username=meisterveda&show_icons=true&hide_border=true" />
+[![Meisterveda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meisterveda)](https://github.com/Meisterveda/github-readme-stats)
 
 [website]: https://meisterveda.com
 [youtube]: https://www.youtube.com/channel/UC5PAzwDbbzsCbtcxPNpSrzw
