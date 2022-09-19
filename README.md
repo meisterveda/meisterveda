@@ -89,8 +89,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Vedacomputing/ui-tailwind/pull/1) in [Vedacomputing/ui-tailwind](https://github.com/Vedacomputing/ui-tailwind)
-2. 💪 Opened PR [#1](https://github.com/Vedacomputing/ui-tailwind/pull/1) in [Vedacomputing/ui-tailwind](https://github.com/Vedacomputing/ui-tailwind)
+1. 🗣 Commented on [#16](https://github.com/smnbbrv/ngx-spec/issues/16) in [smnbbrv/ngx-spec](https://github.com/smnbbrv/ngx-spec)
+2. 🎉 Merged PR [#1](https://github.com/Vedacomputing/ui-tailwind/pull/1) in [Vedacomputing/ui-tailwind](https://github.com/Vedacomputing/ui-tailwind)
 <!--END_SECTION:activity-->
 
 ---
