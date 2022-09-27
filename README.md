@@ -29,12 +29,12 @@
 ![Astro](https://img.shields.io/badge/Astro-%23E8E8E8.svg?style=flat-square&logo=astro&logoColor=FF5D01)
 ![SvelteKit](https://img.shields.io/badge/Svelte/Kit-%23E8E8E8.svg?style=flat-square&logo=svelte&logoColor=FF3E00)
 ![Vite](https://img.shields.io/badge/Vite-%23E8E8E8.svg?style=flat-square&logo=vite&logoColor=646CFF)
+![NX](https://img.shields.io/badge/NX-%23E8E8E8.svg?style=flat-square&logo=nx&logoColor=143055)
 
 ### Waiting to try
 
 <br />
 
-![NX](https://img.shields.io/badge/NX-%23E8E8E8.svg?style=flat-square&logo=nx&logoColor=143055)
 ![Jenkins X](https://img.shields.io/badge/Jenkins%20X-%23F0F0F0.svg?style=flat-square&logo=Jenkinsx&logoColor=73C3D5)
 
 ### In Use
