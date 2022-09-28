@@ -54,7 +54,7 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F0F0F0.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23E8E8E8.svg?style=flat-square&logo=typescript&logoColor=3178C6)
-![Markdown](https://img.shields.io/badge/markdown-%23E8E8E8.svg?style=flat-square&logo=markdown&logoColor=000000)
+![Markdown](https://img.shields.io/badge/markdown-%23E8E8E8.svg?style=flat-square&logo=Markdown&logoColor=000000)
 ![HTML5](https://img.shields.io/badge/html5-%23E8E8E8.svg?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-%23E8E8E8.svg?style=flat-square&logo=css3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/Sass-%23E8E8E8.svg?style=flat-square&logo=sass&logoColor=CC6699)
