@@ -5,7 +5,7 @@
 - :mortar_board: I'm a Developer, Administrator, Creator and Teacher.
 - :telescope: I look to always create and learn new things, to teach what I know and to make things better for all.
 - :unlock: I believe in Open Source.
-- :pencil2: I'm looking to collaborate with more creatores and build a good foundation.
+- :pencil2: I'm looking to collaborate with more creators and build a good foundation.
 - :european_castle: I want to contribute more for the community and other Open Source Projects.
 
 <br />
