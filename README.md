@@ -85,14 +85,4 @@
 
 ---
 
-### Latest Github Activity
-
-<!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#16](https://github.com/smnbbrv/ngx-spec/issues/16) in [smnbbrv/ngx-spec](https://github.com/smnbbrv/ngx-spec)
-2. 🗣 Commented on [#16](https://github.com/smnbbrv/ngx-spec/issues/16) in [smnbbrv/ngx-spec](https://github.com/smnbbrv/ngx-spec)
-<!--END_SECTION:activity-->
-
----
-
 [![Meisterveda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meisterveda)](https://github.com/Meisterveda/github-readme-stats)
