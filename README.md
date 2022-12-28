@@ -1,4 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gustavo Cabezal=======================================================================================================================================Developer, Creator and Teacher.-------------------------------For a long time learning programming, from C++ to web development, always looking to teach and pass knowledge to others. Improving, learning and testing new DevOps ideas and applications.* 🖥️  See my portfolio at [Meisterveda](http://meisterveda.com)* 🤝  I'm open to collaborating on Open Source Projects* ⚡  I want to contribute more for the community and other Open Source Projects.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gustavo Cabezal
+=======================================================================================================================================
+
+Developer, Creator and Teacher.
+-------------------------------
+
+For a long time learning programming, from C++ to web development, always looking to teach and pass knowledge to others. Improving, learning and testing new DevOps ideas and applications.
+
+*   🖥️  See my portfolio at [Meisterveda](http://meisterveda.com)
+*   🤝  I'm open to collaborating on Open Source Projects
+*   ⚡  I want to contribute more for the community and other Open Source Projects.
 
 ### Skills
 
