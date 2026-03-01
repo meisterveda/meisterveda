@@ -1,88 +1,68 @@
-# Hello, I'm Gustavo - aka [Meisterveda](https://meisterveda.com)
+# Hey, I'm Gustavo
 
-## WHOAMI
+**Full-Stack Developer | Infrastructure Engineer | AI Engineer**
 
-- :mortar_board: I'm a Developer, Administrator, Creator and Teacher.
-- :telescope: I look to always create and learn new things, to teach what I know and to make things better for all.
-- :unlock: I believe in Open Source.
-- :pencil2: I'm looking to collaborate with more creators and build a good foundation.
-- :european_castle: I want to contribute more for the community and other Open Source Projects.
+I build applications end-to-end and the infrastructure that runs them. I also work with AI — designing agentic systems, building AI-augmented workflows, and integrating LLMs into real products. Currently focused on self-hosted platforms, homelab infrastructure, and developer tooling — all tied together in a monorepo called **Valhalla**.
 
-<br />
+I name my projects after Norse mythology because every good system deserves a saga.
 
-## Find me online
+## Connect
 
-<br />
+[![Portfolio](https://img.shields.io/badge/meisterveda.com-18181B?style=flat-square&logo=astro&logoColor=white)](https://meisterveda.com)
+[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/meisterveda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gustavo-cabezal-sys/)
+[![Reddit](https://img.shields.io/badge/Reddit-18181B?style=flat-square&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/meisterveda)
 
-[![Portfolio](https://img.shields.io/badge/meisterveda.com-lightgrey?style=flat-square&logo=astro)](https://meisterveda.com)
-[![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/kwhitley)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Meistervedasys)
-[![Reddit](https://img.shields.io/badge/Reddit-red.svg?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/meisterveda)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23E8E8E8.svg?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/gustavo-cabezal-sys/)
+## What I Work With
 
-## The Stack
+### Languages & Frameworks
 
-### Currently Learning
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br />
+### Data & Storage
 
-![Astro](https://img.shields.io/badge/Astro-%23E8E8E8.svg?style=flat-square&logo=astro&logoColor=FF5D01)
-![SvelteKit](https://img.shields.io/badge/Svelte/Kit-%23E8E8E8.svg?style=flat-square&logo=svelte&logoColor=FF3E00)
-![Vite](https://img.shields.io/badge/Vite-%23E8E8E8.svg?style=flat-square&logo=vite&logoColor=646CFF)
-![NX](https://img.shields.io/badge/NX-%23E8E8E8.svg?style=flat-square&logo=nx&logoColor=143055)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Waiting to try
+### Infrastructure & DevOps
 
-<br />
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=000)
 
-![Jenkins X](https://img.shields.io/badge/Jenkins%20X-%23F0F0F0.svg?style=flat-square&logo=Jenkinsx&logoColor=73C3D5)
+### AI & LLMs
 
-### In Use
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)
 
-<br />
+### Tooling
 
-![React](https://img.shields.io/badge/React-%23E8E8E8.svg?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23E8E8E8.svg?style=flat-square&logo=angular&logoColor=E23237)
-![Node](https://img.shields.io/badge/Node.js-%23E8E8E8.svg?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-%23E8E8E8.svg?style=flat-square&logo=express&logoColor=000)
-![NextJS](https://img.shields.io/badge/NextJS-%23E8E8E8.svg?style=flat-square&logo=Next.js&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%23E8E8E8.svg?style=flat-square&logo=TailwindCSS&logoColor=06B6D4)
+![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### The basics
+## The Homelab
 
-<br />
+A 12-node K3s cluster running on Proxmox, managed with Terraform and Ansible, deployed via ArgoCD. Self-hosting Forgejo, Grafana, and a growing collection of custom apps — because why use someone else's cloud when you can build your own?
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F0F0F0.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23E8E8E8.svg?style=flat-square&logo=typescript&logoColor=3178C6)
-![Markdown](https://img.shields.io/badge/markdown-%23E8E8E8.svg?style=flat-square&logo=Markdown&logoColor=000000)
-![HTML5](https://img.shields.io/badge/html5-%23E8E8E8.svg?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/css3-%23E8E8E8.svg?style=flat-square&logo=css3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/Sass-%23E8E8E8.svg?style=flat-square&logo=sass&logoColor=CC6699)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23E8E8E8.svg?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/mysql-%23E8E8E8.svg?style=flat-square&logo=mysql&logoColor=4479A1)
-![Postgres](https://img.shields.io/badge/postgres-%23E8E8E8.svg?style=flat-square&logo=postgresql&logoColor=4169E1)
-![GitHub](https://img.shields.io/badge/GitHub-%23E8E8E8.svg?style=flat-square&logo=github&logoColor=000)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%23E8E8E8.svg?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23F0F0F0.svg?style=flat-square&logo=Jenkins&logoColor=D24939)
-![NPM](https://img.shields.io/badge/NPM-%23E8E8E8.svg?style=flat-square&logo=npm&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23E8E8E8?style=flat-square&logo=jest&logoColor=C21325)
-![Cypress](https://img.shields.io/badge/Cypress-%23E8E8E8?style=flat-square&logo=Cypress&logoColor=17202C)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-%23E8E8E8.svg?style=flat-square&logo=visual-studio-code&logoColor=0078d7)
-![AWS](https://img.shields.io/badge/AWS-%23F0F0F0.svg?style=flat-square&logo=AmazonAWS&logoColor=232F3E)
-![GCP](https://img.shields.io/badge/GCP-%23E8E8E8.svg?style=flat-square&logo=GoogleCloud&logoColor=4285F4)
-![Terraform](https://img.shields.io/badge/Terraform-%23E8E8E8.svg?style=flat-square&logo=Terraform&logoColor=7B42BC)
-![Ansible](https://img.shields.io/badge/Ansible-%23F0F0F0.svg?style=flat-square&logo=Ansible&logoColor=EE0000)
+## Stats
 
-## <br />
-
-### My Stats
-
-<br />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=meisterveda)](https://github.com/meisterveda/github-profile-trophy)
-
-<br />
-
----
-
-[![Meisterveda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meisterveda)](https://github.com/Meisterveda/github-readme-stats)
+[![Meisterveda's GitHub stats](https://github-readme-stats.vercel.app/api?username=meisterveda&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)](https://github.com/meisterveda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meisterveda&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)](https://github.com/meisterveda)
